@@ -1,0 +1,13 @@
+.tbl {
+  text-align: left;
+  width: 600px;
+  border-collapse: collapse;
+}
+.thtd {
+  background-color: burlywood;
+  height: auto;
+}
+.block {
+  background-color: beige;
+  margin: 30px;
+}
